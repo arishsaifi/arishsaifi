@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://github.com/arishsaifi/arishsaifi/blob/main/born%20to%20devlop..png" alt="coder" width="500" height="600">
 <h1 align="center">Hello 👋, I'm hArIsH sAiFi</h1>
 <h3 align="right">A passionate learner, hard-worker.</h3>
 
