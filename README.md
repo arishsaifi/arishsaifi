@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hello 👋, I'm hArIsH sAiFi</h1>
-<h3 align="center">A passionate learner, hard-worker.</h3>
+<h3 align="right">A passionate learner, hard-worker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arishsaifi&label=Profile%20views&color=0e75b6&style=flat" alt="arishsaifi" /> </p>
 
