@@ -1,7 +1,7 @@
 # 💫 About Me:
-<img src="https://github.com/arishsaifi/arishsaifi/blob/main/born%20to%20devlop..png" alt="coder" width="500" height="600">
+<img src="https://github.com/arishsaifi/arishsaifi/blob/main/Your%20paragraph%20text.jpg" alt="coder" width="MAX" >
 <h1 align="center">Hello 👋, I'm hArIsH sAiFi</h1>
-<h3 align="right">A passionate learner, hard-worker.</h3>
+<h3 align="right" color="teal">A passionate learner, hard-worker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arishsaifi&label=Profile%20views&color=0e75b6&style=flat" alt="arishsaifi" /> </p>
 
