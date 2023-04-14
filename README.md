@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="left"> <b><i>HELLO, I am hArIsH sAiFi</i></b></h1>
+<h1 align="center"> <b><i>HELLO, I am hArIsH sAiFi</i></b></h1>
 <h3 align="left">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
 
