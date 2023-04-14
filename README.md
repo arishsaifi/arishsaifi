@@ -2,12 +2,8 @@
 <h1 align="left"> <b><i>HELLO, I am hArIsH sAiFi</i></b></h1>
 <h3 align="left">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="saumya1singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumya1singh" alt="saumya1singh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/saumya1singh" target="blank"><img src="https://img.shields.io/twitter/follow/saumya1singh?logo=twitter&style=for-the-badge" alt="saumya1singh" /></a> </p>
-
+## 🌐 Socials:
 - 👨‍💻 I’m currently working at [Red Hat](https://www.redhat.com/en)
 
 - 🌱 I’m exploring **Golang, Kubernetes**
