@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/arishsaifi/arishsaifi/blob/main/Your%20paragraph%20text.jpg)
+![open in desktop to see the wonderful image](https://github.com/arishsaifi/arishsaifi/blob/main/Your%20paragraph%20text.jpg)
 # 💫 About Me:
 <h1 align="center">Hello 👋, I'm hArIsH sAiFi</h1>
 <h3 align="right" color="teal">A passionate learner, hard-worker.</h3>
