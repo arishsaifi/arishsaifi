@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Saumya</h1>
-<h3 align="center">I share knowledge through my code, articles, posts and talks💙️.</h3>
+<h1 align="left"> <b><i>HELLO, I am hArIsH sAiFi</i></b></h1>
+<h3 align="left">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="saumya1singh" /> </p>
 
