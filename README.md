@@ -1,5 +1,5 @@
+![MasterHead](https://github.com/arishsaifi/arishsaifi/blob/main/Your%20paragraph%20text.jpg)
 # 💫 About Me:
-<img src="https://github.com/arishsaifi/arishsaifi/blob/main/Your%20paragraph%20text.jpg" alt="coder" width="MAX" >
 <h1 align="center">Hello 👋, I'm hArIsH sAiFi</h1>
 <h3 align="right" color="teal">A passionate learner, hard-worker.</h3>
 
