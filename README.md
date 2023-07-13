@@ -3,9 +3,7 @@
 <h1 align="center">Hello 👋, I'm hArIsH sAiFi</h1>
 <h3 align="right" color="teal">A passionate learner, hard-worker.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arishsaifi&label=Profile%20views&color=0e75b6&style=flat" alt="arishsaifi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arishsaifi" alt="arishsaifi" /></a> </p>
 
 - 💬 Ask me about **problem solving .**
 
