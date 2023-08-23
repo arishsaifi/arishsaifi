@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **+919045699693 Or harishsaifi2003@gmail.com**
 
-- ⚡ Fun fact **I am a psycho 🤫.**
+- ⚡ Fun fact **I am a psycho and a economist 🤫.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
